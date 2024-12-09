@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LessonGrade</string>
+    <string name="text_lesson_grade">Оценка за урок:</string>
+    <string name="text_input_grade">введите оценку</string>
+    <string name="title_menu_color">Цветовое качество</string>
+    <string name="title_menu_exit">Выход из приложения</string>
+    <string name="text_button_random_number">Случайное число</string>
 </resources>
